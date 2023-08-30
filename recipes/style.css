@@ -1,0 +1,36 @@
+
+
+body{
+    font-size: large;
+    margin-left: 80px;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.wrap{
+    float: left;
+    
+}
+img{
+    max-width: 300px;
+    margin-right: 10px;
+    background-color: #E5E4E2;
+    border-radius: 30px;
+}
+.text{
+    background-color: #E5E4E2;
+    margin-right: 5px;
+    margin: 110px auto;
+    color: #2C3539;
+   
+}
+h4{
+    margin-left: 10%;
+}
+
+h3{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.text.d{
+    padding-bottom: 5%;
+}
