@@ -12,6 +12,7 @@ body{
 }
 img{
     max-width: 300px;
+    max-height: 300px;
     margin-right: 10px;
     background-color: #E5E4E2;
     border-radius: 30px;
