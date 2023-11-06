@@ -33,5 +33,9 @@ h3{
     padding-left: 5%;
 }
 .text.d{
-    padding-bottom: 5%;
+    padding-bottom: 2%;
+    margin-bottom: -80px;
+}
+h2{
+    padding: 10px;
 }
